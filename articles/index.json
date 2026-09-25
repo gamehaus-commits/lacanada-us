@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-09-25T12:12:00-07:00",
+  "copyright": "\u00a9 2026 lacanada.us",
+  "highlighted_slug": "front-row-seats-to-orbit",
+  "articles": [
+    {
+      "slug": "front-row-seats-to-orbit",
+      "title": "Front-row seats to orbit: How La Ca\u00f1ada Flintridge watches SpaceX from the driveway",
+      "published_at": "2026-09-24T08:00:00-07:00",
+      "highlighted": true,
+      "image": null,
+      "image_alt": "Twilight rocket plume over the foothills, viewed from a west-facing deck",
+      "image_prompt": "Photorealistic twilight from a La Ca\u00f1ada Flintridge hillside deck looking west. A Falcon 9 twilight plume blooms as a pale glowing space jellyfish over the San Gabriels. Warm deck lights, no people, no logos, no text.",
+      "excerpt": "As a resident of La Ca\u00f1ada Flintridge, you already have something most of the country has to book a flight for: front-row access to rocket launches tied to the engineers in your own community. You do not need a badge, a viewing stand, or a trip to Florida. On the right evening, the show starts over the western horizon, climbs through twilight, and turns the sky into a glowing jellyfish while dinner is still on the table.",
+      "url": "/articles/front-row-seats-to-orbit",
+      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/front-row-seats-to-orbit.json"
+    },
+    {
+      "slug": "jpl-suicide-squad-origin",
+      "title": "The little-known origin of JPL: Caltech\u2019s Suicide Squad got kicked into a wash and founded the space age",
+      "published_at": "2026-09-25T12:00:00-07:00",
+      "highlighted": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Rocket-motor-test-browse.jpg",
+      "image_alt": "Early rocket motor experiment in the Arroyo Seco, 1936",
+      "image_prompt": null,
+      "excerpt": "Here is the part the Mars rover press releases never lead with. NASA\u2019s Jet Propulsion Laboratory did not begin as a gleaming federal campus on Oak Grove Drive. It began because a handful of Caltech kids \u2014 plus two amateurs who were not even enrolled \u2014 kept blowing things up on campus, and the Institute decided the safest place for that hobby was a dry riverbed.",
+      "url": "/articles/jpl-suicide-squad-origin",
+      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/jpl-suicide-squad-origin.json"
+    }
+  ]
+}
