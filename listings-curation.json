@@ -1,0 +1,29 @@
+{
+  "updated": "2026-09-25",
+  "do_not_show": [
+    {"name": "AQ Locks & Keys"},
+    {"name": "bb.q Chicken"},
+    {"name": "In Vino & Spirits"},
+    {"name": "Renaud's Bakery"}
+  ],
+  "always_show": [
+    {"name": "7-Eleven", "category": "Convenience", "address": "1001 Foothill Blvd", "phone": "(818) 952-5369", "website": "https://www.7-eleven.com"},
+    {"name": "Blaze Pizza", "category": "Restaurants", "address": "990 Town Center Dr", "phone": "(818) 483-0535", "website": "https://www.blazepizza.com"},
+    {"name": "Descanso Gardens", "category": "Parks & gardens", "address": "1418 Descanso Drive", "phone": "(818) 949-4200", "website": "https://www.descansogardens.org"},
+    {"name": "Gelson's Market", "category": "Grocery", "address": "635 Foothill Blvd", "phone": "(818) 790-0563", "website": "https://www.gelsons.com/store-locations/la-canada-flintridge"},
+    {"name": "HomeGoods", "category": "Retail", "address": "935 Foothill Blvd", "phone": null, "website": "https://www.homegoods.com"},
+    {"name": "Jet Propulsion Laboratory (JPL)", "category": "Civic", "address": "4800 Oak Grove Dr", "phone": "(818) 354-4321", "website": "https://www.jpl.nasa.gov"},
+    {"name": "Jersey Mike's Subs", "category": "Restaurants", "address": "711 Foothill Blvd #B", "phone": null, "website": "https://www.jerseymikes.com"},
+    {"name": "La Ca\u00f1ada Imports", "category": "Restaurants", "address": "1537 Foothill Blvd", "phone": null, "website": "https://lacanadaimports.com"},
+    {"name": "Petco", "category": "Retail", "address": "960 Foothill Blvd", "phone": null, "website": "https://www.petco.com"},
+    {"name": "Ralphs", "category": "Grocery", "address": "521 Foothill Blvd", "phone": "(818) 790-0584", "website": "https://www.ralphs.com"},
+    {"name": "Sprouts Farmers Market", "category": "Grocery", "address": "920 Foothill Blvd", "phone": "(818) 495-1103", "website": "https://www.sprouts.com"},
+    {"name": "Subway", "category": "Restaurants", "address": "518 Foothill Blvd", "phone": null, "website": "https://www.subway.com"},
+    {"name": "Target", "category": "Retail", "address": "965 Town Center Dr", "phone": "(818) 949-3422", "website": "https://www.target.com/sl/la-canada-flintridge/3293"},
+    {"name": "Taylor's Steakhouse", "category": "Restaurants", "address": "901 Foothill Blvd", "phone": "(818) 790-7668", "website": "https://taylorssteakhouse.com"},
+    {"name": "The Habit Burger & Grill", "category": "Restaurants", "address": "990 Town Center Dr", "phone": "(818) 952-2910", "website": "https://www.habitburger.com"},
+    {"name": "TJ Maxx", "category": "Retail", "address": "663 Foothill Blvd", "phone": "(818) 952-6640", "website": "https://tjmaxx.tjx.com"},
+    {"name": "Trader Joe's", "category": "Grocery", "address": "475 Foothill Blvd", "phone": "(818) 790-6373", "website": "https://locations.traderjoes.com/ca/la-canada/"},
+    {"name": "Vons", "category": "Grocery", "address": "635 Foothill Blvd", "phone": "(818) 790-7563", "website": "https://www.vons.com", "note": "Directories flag this Vons as closed; Gelson's is at this center."}
+  ]
+}
