@@ -1,0 +1,235 @@
+{
+  "generated_at": "2026-09-24T18:34:00-07:00",
+  "window_home": {
+    "from": "2026-09-24",
+    "to": "2026-10-01",
+    "days": 7
+  },
+  "window_calendar": {
+    "from": "2026-09-24",
+    "to": "2026-11-08",
+    "days": 45
+  },
+  "filters": {
+    "city": "Drop blue commission and council meetings.",
+    "sfhs": "In La Cañada with a start time. Sports: varsity football and varsity basketball only.",
+    "lcusd_district": "District calendar id=3. Drop GATE.",
+    "lchs_athletics": "Varsity football, basketball, baseball games in LCF with start time and opponent."
+  },
+  "sources": [
+    {
+      "id": "city",
+      "name": "City of La Cañada Flintridge",
+      "url": "https://lcf.ca.gov/calendar/"
+    },
+    {
+      "id": "sfhs",
+      "name": "St. Francis High School",
+      "url": "https://www.sfhs.net/calendar"
+    },
+    {
+      "id": "district",
+      "name": "LCUSD District Calendar",
+      "url": "https://www.lchsspartans.net/apps/events/?id=3"
+    },
+    {
+      "id": "lchs",
+      "name": "LCHS athletics / MaxPreps",
+      "url": "https://www.lchsspartans.net/apps/events/?id=1"
+    }
+  ],
+  "events": [
+    {
+      "id": "district-2026-09-26-wine",
+      "source": "district",
+      "title": "LCFEF Endowment Wine Auction",
+      "date": "2026-09-26",
+      "start": "18:00",
+      "end": "20:00",
+      "time_label": "6:00–8:00 PM",
+      "place": "LCF Education Foundation listing",
+      "url": "https://www.lchsspartans.net/apps/events/2026/9/26/49235004/?id=3",
+      "home": true
+    },
+    {
+      "id": "city-2026-09-30-music",
+      "source": "city",
+      "title": "Music in the Park: Boombox Heroes",
+      "date": "2026-09-30",
+      "start": "18:00",
+      "end": "20:00",
+      "time_label": "6:00–8:00 PM",
+      "place": "Memorial Park, 1301 Foothill Blvd",
+      "url": "https://lcf.ca.gov/events/",
+      "home": true
+    },
+    {
+      "id": "district-2026-10-01-math",
+      "source": "district",
+      "title": "Math In Focus Parent Information Meeting",
+      "date": "2026-10-01",
+      "start": "18:30",
+      "end": "20:00",
+      "time_label": "6:30–8:00 PM",
+      "place": "LCUSD Board Room",
+      "url": "https://www.lchsspartans.net/apps/events/2026/10/1/48357478/?id=3",
+      "home": true
+    },
+    {
+      "id": "lchs-2026-10-02-fb",
+      "source": "lchs",
+      "title": "LCHS Varsity Football vs Schurr",
+      "date": "2026-10-02",
+      "start": "19:00",
+      "end": "21:00",
+      "time_label": "7:00 PM",
+      "place": "La Cañada High School, 4463 Oak Grove Dr",
+      "url": "https://www.maxpreps.com/ca/football/game/la-canada-vs-schurr-montebello/10-2-2026/",
+      "home": false
+    },
+    {
+      "id": "district-2026-10-06-forum",
+      "source": "district",
+      "title": "School Board Candidate Forum",
+      "date": "2026-10-06",
+      "start": "18:00",
+      "end": "20:00",
+      "time_label": "6:00–8:00 PM",
+      "place": "LCHS Auditorium",
+      "url": "https://www.lchsspartans.net/apps/events/2026/10/6/55442259/?id=3",
+      "home": false
+    },
+    {
+      "id": "sfhs-2026-10-09-fb",
+      "source": "sfhs",
+      "title": "St. Francis Varsity Football vs St. Pius X–St. Matthias Academy",
+      "date": "2026-10-09",
+      "start": "19:00",
+      "end": "22:00",
+      "time_label": "7:00 PM",
+      "place": "Jim Bonds Stadium, 200 Foothill Blvd",
+      "url": "https://www.maxpreps.com/ca/football/game/st-francis-la-canada-vs-st-pius-x-st-matthias-academy-downey/10-9-2026/",
+      "home": false
+    },
+    {
+      "id": "lchs-2026-10-09-fb",
+      "source": "lchs",
+      "title": "LCHS Varsity Football vs Muir",
+      "date": "2026-10-09",
+      "start": "19:00",
+      "end": "21:00",
+      "time_label": "7:00 PM",
+      "place": "La Cañada High School, 4463 Oak Grove Dr",
+      "url": "https://www.maxpreps.com/ca/football/game/la-canada-vs-muir-pasadena/10-9-2026/",
+      "home": false
+    },
+    {
+      "id": "city-2026-10-12-indigenous",
+      "source": "city",
+      "title": "City Hall Closed in Observance of Indigenous Peoples’ Day",
+      "date": "2026-10-12",
+      "start": null,
+      "end": null,
+      "time_label": "All Day",
+      "place": "City of La Cañada Flintridge",
+      "url": "https://lcf.ca.gov/events/",
+      "home": false
+    },
+    {
+      "id": "district-2026-10-15-shake",
+      "source": "district",
+      "title": "Great ShakeOut",
+      "date": "2026-10-15",
+      "start": "10:30",
+      "end": "11:30",
+      "time_label": "10:30–11:30 AM",
+      "place": "LCUSD campuses",
+      "url": "https://www.lchsspartans.net/apps/events/2026/10/15/56458320/?id=3",
+      "home": false
+    },
+    {
+      "id": "district-2026-10-16-poker",
+      "source": "district",
+      "title": "LCFEF Poker Tournament",
+      "date": "2026-10-16",
+      "start": "17:30",
+      "end": "20:00",
+      "time_label": "5:30–8:00 PM",
+      "place": "LCF Education Foundation listing",
+      "url": "https://www.lchsspartans.net/apps/events/2026/10/16/49235012/?id=3",
+      "home": false
+    },
+    {
+      "id": "sfhs-2026-10-16-fb",
+      "source": "sfhs",
+      "title": "St. Francis Varsity Football vs St. Paul",
+      "date": "2026-10-16",
+      "start": "19:00",
+      "end": "22:00",
+      "time_label": "7:00 PM",
+      "place": "Jim Bonds Stadium, 200 Foothill Blvd",
+      "url": "https://www.maxpreps.com/ca/football/game/st-francis-la-canada-vs-st-paul-santa-fe-springs/10-16-2026/",
+      "home": false
+    },
+    {
+      "id": "district-2026-10-20-conf",
+      "source": "district",
+      "title": "Elementary Parent Conference Week",
+      "date": "2026-10-20",
+      "start": null,
+      "end": null,
+      "time_label": "Oct 20–23",
+      "place": "LCUSD elementary schools",
+      "url": "https://www.lchsspartans.net/apps/events/2026/10/20/38581708/?id=3",
+      "home": false
+    },
+    {
+      "id": "city-2026-10-22-50th",
+      "source": "city",
+      "title": "City of La Cañada Flintridge’s 50th Anniversary Celebration",
+      "date": "2026-10-22",
+      "start": null,
+      "end": null,
+      "time_label": "See city calendar",
+      "place": "La Cañada Flintridge",
+      "url": "https://lcf.ca.gov/events/",
+      "home": false
+    },
+    {
+      "id": "sfhs-2026-10-27-knights",
+      "source": "sfhs",
+      "title": "Knights of the Round Table",
+      "date": "2026-10-27",
+      "start": "18:30",
+      "end": "20:00",
+      "time_label": "6:30–8:00 PM",
+      "place": "Degheri Theater, St. Francis HS",
+      "url": "https://www.sfhs.net/calendar",
+      "home": false
+    },
+    {
+      "id": "sfhs-2026-10-30-fb",
+      "source": "sfhs",
+      "title": "St. Francis Varsity Football vs Paraclete",
+      "date": "2026-10-30",
+      "start": "19:00",
+      "end": "22:00",
+      "time_label": "7:00 PM",
+      "place": "Jim Bonds Stadium, 200 Foothill Blvd",
+      "url": "https://www.maxpreps.com/ca/football/game/paraclete-lancaster-vs-st-francis-la-canada/10-30-2026/",
+      "home": false
+    },
+    {
+      "id": "lchs-2026-10-30-fb",
+      "source": "lchs",
+      "title": "LCHS Varsity Football vs Crescenta Valley (Senior Night)",
+      "date": "2026-10-30",
+      "start": "19:00",
+      "end": "21:00",
+      "time_label": "7:00 PM",
+      "place": "LCHS Football Field, 4463 Oak Grove Dr",
+      "url": "https://www.maxpreps.com/ca/football/game/crescenta-valley-la-crescenta-vs-la-canada/10-30-2026/",
+      "home": false
+    }
+  ]
+}
