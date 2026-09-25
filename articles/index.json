@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:19:00-07:00",
+  "generated_at": "2026-09-25T12:30:00-07:00",
   "copyright": "\u00a9 2026 lacanada.us",
   "highlighted_slug": "front-row-seats-to-orbit",
   "articles": [
@@ -9,8 +9,8 @@
       "published_at": "2026-09-24T08:00:00-07:00",
       "highlighted": true,
       "image": null,
-      "image_alt": "Twilight rocket plume over the foothills, viewed from a west-facing deck",
-      "image_prompt": "Photorealistic twilight from a La Ca\u00f1ada Flintridge hillside deck looking west. A Falcon 9 twilight plume blooms as a pale glowing space jellyfish over the San Gabriels. Warm deck lights, no people, no logos, no text.",
+      "image_alt": "Twilight Falcon 9 exhaust plume forming a space jellyfish over the foothills",
+      "image_prompt": "Photorealistic twilight photo of a Falcon 9 space jellyfish over the San Gabriel foothills. Deep blue sky, thin orange horizon only. High up: a slender twisting white corkscrew vapor trail that opens into a soft milky-white ice-blue translucent exhaust bloom \u2014 delicate filaments, like the real photos posted by @spacejellyalert, NOT a fireball, mushroom cloud, nuclear blast, or giant animal. Dark mountain silhouette and small house lights at the bottom. No people, no text, no logos.",
       "excerpt": "As a resident of La Ca\u00f1ada Flintridge, you already have something most of the country has to book a flight for: front-row access to rocket launches tied to the engineers in your own community. You do not need a badge, a viewing stand, or a trip to Florida. On the right evening, the show starts over the western horizon, climbs through twilight, and turns the sky into a glowing jellyfish while dinner is still on the table.",
       "url": "/articles/front-row-seats-to-orbit",
       "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/front-row-seats-to-orbit.json"
