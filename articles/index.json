@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:27:00-07:00",
+  "generated_at": "2026-09-26T12:30:00-07:00",
   "copyright": "\u00a9 2026 lacanada.us",
   "highlighted_slug": "front-row-seats-to-orbit",
   "articles": [
@@ -27,8 +27,8 @@
       "title": "Got a letter from the Clean Power Alliance and have solar on your roof? Here are some considerations.",
       "published_at": "2026-06-01T08:00:00-07:00",
       "highlighted": false,
-      "image": null,
-      "image_alt": "Rooftop solar panels on a La Ca\u00f1ada Flintridge house with the San Gabriel Mountains behind",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/527_N_Gramercy_Solar_panels_on_roof.jpg",
+      "image_alt": "House with rooftop solar panels",
       "url": "/articles/cpa-solar-letter",
       "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/cpa-solar-letter.json"
     }
