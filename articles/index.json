@@ -1,29 +1,15 @@
 {
-  "generated_at": "2026-09-26T12:25:00-07:00",
+  "generated_at": "2026-09-26T12:27:00-07:00",
   "copyright": "\u00a9 2026 lacanada.us",
-  "highlighted_slug": "cpa-solar-letter",
+  "highlighted_slug": "front-row-seats-to-orbit",
   "articles": [
-    {
-      "slug": "cpa-solar-letter",
-      "title": "Got a letter from the Clean Power Alliance and have solar on your roof? Here are some considerations.",
-      "published_at": "2026-06-01T08:00:00-07:00",
-      "highlighted": true,
-      "image": null,
-      "image_alt": "Rooftop solar panels on a La Ca\u00f1ada Flintridge house with the San Gabriel Mountains behind",
-      "image_prompt": "Editorial documentary photograph for a local news article about rooftop solar in La Ca\u00f1ada Flintridge. Quiet suburban foothill house with dark roof and neat grid of black solar panels, late afternoon light, San Gabriel mountains soft in the background. No logos, no text, no people.",
-      "excerpt": "If you live in La Ca\u00f1ada Flintridge and got a letter from Clean Power Alliance (CPA), you are not losing your solar. The city picked CPA as the company that makes the power. Southern California Edison (SCE) still delivers it over the wires. You will keep getting one bill from SCE.",
-      "url": "/articles/cpa-solar-letter",
-      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/cpa-solar-letter.json"
-    },
     {
       "slug": "front-row-seats-to-orbit",
       "title": "Front-row seats to orbit: How La Ca\u00f1ada Flintridge watches SpaceX from the driveway",
       "published_at": "2026-09-24T08:00:00-07:00",
-      "highlighted": false,
+      "highlighted": true,
       "image": null,
       "image_alt": "Twilight Falcon 9 exhaust plume forming a space jellyfish over the foothills",
-      "image_prompt": "Photorealistic twilight photo of a Falcon 9 space jellyfish over the San Gabriel foothills. Deep blue sky, thin orange horizon only. High up: a slender twisting white corkscrew vapor trail that opens into a soft milky-white ice-blue translucent exhaust bloom.",
-      "excerpt": "As a resident of La Ca\u00f1ada Flintridge, you already have something most of the country has to book a flight for: front-row access to rocket launches tied to the engineers in your own community.",
       "url": "/articles/front-row-seats-to-orbit",
       "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/front-row-seats-to-orbit.json"
     },
@@ -33,11 +19,18 @@
       "published_at": "2026-08-25T12:00:00-07:00",
       "highlighted": false,
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Rocket-motor-test-browse.jpg",
-      "image_alt": "Early rocket motor experiment in the Arroyo Seco, 1936",
-      "image_prompt": null,
-      "excerpt": "Here is the part the Mars rover press releases never lead with. NASA\u2019s Jet Propulsion Laboratory did not begin as a gleaming federal campus on Oak Grove Drive.",
       "url": "/articles/jpl-suicide-squad-origin",
       "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/jpl-suicide-squad-origin.json"
+    },
+    {
+      "slug": "cpa-solar-letter",
+      "title": "Got a letter from the Clean Power Alliance and have solar on your roof? Here are some considerations.",
+      "published_at": "2026-06-01T08:00:00-07:00",
+      "highlighted": false,
+      "image": null,
+      "image_alt": "Rooftop solar panels on a La Ca\u00f1ada Flintridge house with the San Gabriel Mountains behind",
+      "url": "/articles/cpa-solar-letter",
+      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/cpa-solar-letter.json"
     }
   ]
 }
