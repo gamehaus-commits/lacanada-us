@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-26T12:30:00-07:00",
+  "generated_at": "2026-09-26T14:32:00-07:00",
   "copyright": "\u00a9 2026 lacanada.us",
   "highlighted_slug": "front-row-seats-to-orbit",
+  "default_byline": "lacanada.us editorial staff",
   "articles": [
     {
       "slug": "front-row-seats-to-orbit",
       "title": "Front-row seats to orbit: How La Ca\u00f1ada Flintridge watches SpaceX from the driveway",
       "published_at": "2026-09-24T08:00:00-07:00",
       "highlighted": true,
-      "image": null,
-      "image_alt": "Twilight Falcon 9 exhaust plume forming a space jellyfish over the foothills",
+      "author": "lacanada.us editorial staff",
       "url": "/articles/front-row-seats-to-orbit",
       "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/front-row-seats-to-orbit.json"
     },
@@ -18,6 +18,7 @@
       "title": "The little-known origin of JPL: Caltech\u2019s Suicide Squad got kicked into a wash and founded the space age",
       "published_at": "2026-08-25T12:00:00-07:00",
       "highlighted": false,
+      "author": "lacanada.us editorial staff",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Rocket-motor-test-browse.jpg",
       "url": "/articles/jpl-suicide-squad-origin",
       "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/jpl-suicide-squad-origin.json"
@@ -27,10 +28,19 @@
       "title": "Got a letter from the Clean Power Alliance and have solar on your roof? Here are some considerations.",
       "published_at": "2026-06-01T08:00:00-07:00",
       "highlighted": false,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/527_N_Gramercy_Solar_panels_on_roof.jpg",
-      "image_alt": "House with rooftop solar panels",
+      "author": "lacanada.us editorial staff",
       "url": "/articles/cpa-solar-letter",
       "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/cpa-solar-letter.json"
+    },
+    {
+      "slug": "faith-in-lcf",
+      "title": "Faith in LCF",
+      "published_at": "2025-01-03T08:00:00-08:00",
+      "highlighted": false,
+      "author": "lacanada.us editorial staff",
+      "image_alt": "Sunday liturgy at St. Bede the Venerable Catholic Church in La Ca\u00f1ada Flintridge",
+      "url": "/articles/faith-in-lcf",
+      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/faith-in-lcf.json"
     }
   ]
 }
