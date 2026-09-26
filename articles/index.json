@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:32:00-07:00",
+  "generated_at": "2026-09-26T16:39:00-07:00",
   "copyright": "\u00a9 2026 lacanada.us",
   "highlighted_slug": "front-row-seats-to-orbit",
   "default_byline": "lacanada.us editorial staff",
@@ -31,6 +31,15 @@
       "author": "lacanada.us editorial staff",
       "url": "/articles/cpa-solar-letter",
       "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/cpa-solar-letter.json"
+    },
+    {
+      "slug": "lcf-utilities-home-services-guide",
+      "title": "La Ca\u00f1ada Flintridge Utilities & Home Services Guide",
+      "published_at": "2025-06-23T08:00:00-07:00",
+      "highlighted": false,
+      "author": "lacanada.us editorial staff",
+      "url": "/articles/lcf-utilities-home-services-guide",
+      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/lcf-utilities-home-services-guide.json"
     },
     {
       "slug": "faith-in-lcf",
