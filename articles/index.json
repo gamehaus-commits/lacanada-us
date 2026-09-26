@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-09-25T12:30:00-07:00",
+  "generated_at": "2026-09-26T12:25:00-07:00",
   "copyright": "\u00a9 2026 lacanada.us",
-  "highlighted_slug": "front-row-seats-to-orbit",
+  "highlighted_slug": "cpa-solar-letter",
   "articles": [
+    {
+      "slug": "cpa-solar-letter",
+      "title": "Got a letter from the Clean Power Alliance and have solar on your roof? Here are some considerations.",
+      "published_at": "2026-06-01T08:00:00-07:00",
+      "highlighted": true,
+      "image": null,
+      "image_alt": "Rooftop solar panels on a La Ca\u00f1ada Flintridge house with the San Gabriel Mountains behind",
+      "image_prompt": "Editorial documentary photograph for a local news article about rooftop solar in La Ca\u00f1ada Flintridge. Quiet suburban foothill house with dark roof and neat grid of black solar panels, late afternoon light, San Gabriel mountains soft in the background. No logos, no text, no people.",
+      "excerpt": "If you live in La Ca\u00f1ada Flintridge and got a letter from Clean Power Alliance (CPA), you are not losing your solar. The city picked CPA as the company that makes the power. Southern California Edison (SCE) still delivers it over the wires. You will keep getting one bill from SCE.",
+      "url": "/articles/cpa-solar-letter",
+      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/cpa-solar-letter.json"
+    },
     {
       "slug": "front-row-seats-to-orbit",
       "title": "Front-row seats to orbit: How La Ca\u00f1ada Flintridge watches SpaceX from the driveway",
       "published_at": "2026-09-24T08:00:00-07:00",
-      "highlighted": true,
+      "highlighted": false,
       "image": null,
       "image_alt": "Twilight Falcon 9 exhaust plume forming a space jellyfish over the foothills",
-      "image_prompt": "Photorealistic twilight photo of a Falcon 9 space jellyfish over the San Gabriel foothills. Deep blue sky, thin orange horizon only. High up: a slender twisting white corkscrew vapor trail that opens into a soft milky-white ice-blue translucent exhaust bloom \u2014 delicate filaments, like the real photos posted by @spacejellyalert, NOT a fireball, mushroom cloud, nuclear blast, or giant animal. Dark mountain silhouette and small house lights at the bottom. No people, no text, no logos.",
-      "excerpt": "As a resident of La Ca\u00f1ada Flintridge, you already have something most of the country has to book a flight for: front-row access to rocket launches tied to the engineers in your own community. You do not need a badge, a viewing stand, or a trip to Florida. On the right evening, the show starts over the western horizon, climbs through twilight, and turns the sky into a glowing jellyfish while dinner is still on the table.",
+      "image_prompt": "Photorealistic twilight photo of a Falcon 9 space jellyfish over the San Gabriel foothills. Deep blue sky, thin orange horizon only. High up: a slender twisting white corkscrew vapor trail that opens into a soft milky-white ice-blue translucent exhaust bloom.",
+      "excerpt": "As a resident of La Ca\u00f1ada Flintridge, you already have something most of the country has to book a flight for: front-row access to rocket launches tied to the engineers in your own community.",
       "url": "/articles/front-row-seats-to-orbit",
       "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/front-row-seats-to-orbit.json"
     },
@@ -23,7 +35,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Rocket-motor-test-browse.jpg",
       "image_alt": "Early rocket motor experiment in the Arroyo Seco, 1936",
       "image_prompt": null,
-      "excerpt": "Here is the part the Mars rover press releases never lead with. NASA\u2019s Jet Propulsion Laboratory did not begin as a gleaming federal campus on Oak Grove Drive. It began because a handful of Caltech kids \u2014 plus two amateurs who were not even enrolled \u2014 kept blowing things up on campus, and the Institute decided the safest place for that hobby was a dry riverbed.",
+      "excerpt": "Here is the part the Mars rover press releases never lead with. NASA\u2019s Jet Propulsion Laboratory did not begin as a gleaming federal campus on Oak Grove Drive.",
       "url": "/articles/jpl-suicide-squad-origin",
       "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/jpl-suicide-squad-origin.json"
     }
