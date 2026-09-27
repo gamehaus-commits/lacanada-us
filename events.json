@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:08:00-07:00",
+  "generated_at": "2026-09-27T08:29:00-07:00",
   "window_home": {
     "from": "2026-09-27",
     "to": "2026-10-04",
@@ -11,7 +11,7 @@
     "days": 45
   },
   "filters": {
-    "city": "Drop blue commission and council meetings.",
+    "city": "Drop blue commission and council meetings. Music in the Park 2026 ended 2026-08-30.",
     "sfhs": "In La Ca\u00f1ada with a start time. Sports: varsity football and varsity basketball only.",
     "lcusd_district": "District calendar id=3. Drop GATE.",
     "lchs_athletics": "Varsity football, basketball, baseball games in LCF with start time and opponent."
@@ -39,18 +39,6 @@
     }
   ],
   "events": [
-    {
-      "id": "city-2026-09-30-music",
-      "source": "city",
-      "title": "Music in the Park: Boombox Heroes",
-      "date": "2026-09-30",
-      "start": "18:00",
-      "end": "20:00",
-      "time_label": "6:00\u20138:00 PM",
-      "place": "Memorial Park, 1301 Foothill Blvd",
-      "url": "https://lcf.ca.gov/music-in-the-park/",
-      "home": true
-    },
     {
       "id": "district-2026-10-01-math",
       "source": "district",
@@ -231,5 +219,5 @@
     "blurb": "Family celebration with music, an inflatable obstacle course, and a scavenger hunt for a limited-edition LCF50 picnic blanket. Theme: Together for 50 Years.",
     "url": "https://lcf.ca.gov/togetherfor50/"
   },
-  "notes": "District and LCHS Spartans event calendar pages blocked by Cloudflare/edlio this run; kept prior harvest rows for those sources within the 45-day window. City calendar and MaxPreps football schedules scraped successfully. SFHS non-sports events from prior harvest."
+  "notes": "Removed Boombox Heroes Sep 30 \u2014 that listing was Aug 30 leaking onto the September calendar grid. Music in the Park 2026 ended 2026-08-30."
 }
