@@ -1,55 +1,14 @@
 {
-  "generated_at": "2026-09-26T16:39:00-07:00",
+  "generated_at": "2026-09-26T17:15:00-07:00",
   "copyright": "\u00a9 2026 lacanada.us",
   "highlighted_slug": "front-row-seats-to-orbit",
   "default_byline": "lacanada.us editorial staff",
   "articles": [
-    {
-      "slug": "front-row-seats-to-orbit",
-      "title": "Front-row seats to orbit: How La Ca\u00f1ada Flintridge watches SpaceX from the driveway",
-      "published_at": "2026-09-24T08:00:00-07:00",
-      "highlighted": true,
-      "author": "lacanada.us editorial staff",
-      "url": "/articles/front-row-seats-to-orbit",
-      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/front-row-seats-to-orbit.json"
-    },
-    {
-      "slug": "jpl-suicide-squad-origin",
-      "title": "The little-known origin of JPL: Caltech\u2019s Suicide Squad got kicked into a wash and founded the space age",
-      "published_at": "2026-08-25T12:00:00-07:00",
-      "highlighted": false,
-      "author": "lacanada.us editorial staff",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Rocket-motor-test-browse.jpg",
-      "url": "/articles/jpl-suicide-squad-origin",
-      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/jpl-suicide-squad-origin.json"
-    },
-    {
-      "slug": "cpa-solar-letter",
-      "title": "Got a letter from the Clean Power Alliance and have solar on your roof? Here are some considerations.",
-      "published_at": "2026-06-01T08:00:00-07:00",
-      "highlighted": false,
-      "author": "lacanada.us editorial staff",
-      "url": "/articles/cpa-solar-letter",
-      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/cpa-solar-letter.json"
-    },
-    {
-      "slug": "lcf-utilities-home-services-guide",
-      "title": "La Ca\u00f1ada Flintridge Utilities & Home Services Guide",
-      "published_at": "2025-06-23T08:00:00-07:00",
-      "highlighted": false,
-      "author": "lacanada.us editorial staff",
-      "url": "/articles/lcf-utilities-home-services-guide",
-      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/lcf-utilities-home-services-guide.json"
-    },
-    {
-      "slug": "faith-in-lcf",
-      "title": "Faith in LCF",
-      "published_at": "2025-01-03T08:00:00-08:00",
-      "highlighted": false,
-      "author": "lacanada.us editorial staff",
-      "image_alt": "Sunday liturgy at St. Bede the Venerable Catholic Church in La Ca\u00f1ada Flintridge",
-      "url": "/articles/faith-in-lcf",
-      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/faith-in-lcf.json"
-    }
+    {"slug": "front-row-seats-to-orbit", "title": "Front-row seats to orbit: How La Ca\u00f1ada Flintridge watches SpaceX from the driveway", "published_at": "2026-09-24T08:00:00-07:00", "highlighted": true, "author": "lacanada.us editorial staff", "url": "/articles/front-row-seats-to-orbit", "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/front-row-seats-to-orbit.json"},
+    {"slug": "jpl-suicide-squad-origin", "title": "The little-known origin of JPL: Caltech\u2019s Suicide Squad got kicked into a wash and founded the space age", "published_at": "2026-08-25T12:00:00-07:00", "highlighted": false, "author": "lacanada.us editorial staff", "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Rocket-motor-test-browse.jpg", "url": "/articles/jpl-suicide-squad-origin", "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/jpl-suicide-squad-origin.json"},
+    {"slug": "cpa-solar-letter", "title": "Got a letter from the Clean Power Alliance and have solar on your roof? Here are some considerations.", "published_at": "2026-06-01T08:00:00-07:00", "highlighted": false, "author": "lacanada.us editorial staff", "url": "/articles/cpa-solar-letter", "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/cpa-solar-letter.json"},
+    {"slug": "lcf-utilities-home-services-guide", "title": "La Ca\u00f1ada Flintridge Utilities & Home Services Guide", "published_at": "2025-06-23T08:00:00-07:00", "highlighted": false, "author": "lacanada.us editorial staff", "url": "/articles/lcf-utilities-home-services-guide", "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/lcf-utilities-home-services-guide.json"},
+    {"slug": "faith-in-lcf", "title": "Faith in LCF", "published_at": "2025-01-03T08:00:00-08:00", "highlighted": false, "author": "lacanada.us editorial staff", "image_alt": "Sunday liturgy at St. Bede the Venerable Catholic Church in La Ca\u00f1ada Flintridge", "url": "/articles/faith-in-lcf", "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/faith-in-lcf.json"},
+    {"slug": "a-short-history-of-la-canada-flintridge", "title": "A Short History of La Ca\u00f1ada Flintridge", "published_at": "2023-10-06T08:00:00-07:00", "highlighted": false, "author": "lacanada.us editorial staff", "url": "/articles/a-short-history-of-la-canada-flintridge", "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/a-short-history-of-la-canada-flintridge.json"}
   ]
 }
