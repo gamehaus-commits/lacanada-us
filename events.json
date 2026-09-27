@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:29:00-07:00",
+  "generated_at": "2026-09-27T08:31:00-07:00",
   "window_home": {
     "from": "2026-09-27",
     "to": "2026-10-04",
@@ -13,7 +13,7 @@
   "filters": {
     "city": "Drop blue commission and council meetings. Music in the Park 2026 ended 2026-08-30.",
     "sfhs": "In La Ca\u00f1ada with a start time. Sports: varsity football and varsity basketball only.",
-    "lcusd_district": "District calendar id=3. Drop GATE.",
+    "lcusd_district": "District calendar https://www.lcusd.net/apps/events/?id=0. Drop GATE.",
     "lchs_athletics": "Varsity football, basketball, baseball games in LCF with start time and opponent."
   },
   "sources": [
@@ -30,7 +30,7 @@
     {
       "id": "district",
       "name": "LCUSD District Calendar",
-      "url": "https://www.lchsspartans.net/apps/events/?id=3"
+      "url": "https://www.lcusd.net/apps/events/?id=0"
     },
     {
       "id": "lchs",
@@ -48,7 +48,7 @@
       "end": "20:00",
       "time_label": "6:30\u20138:00 PM",
       "place": "LCUSD Board Room",
-      "url": "https://www.lchsspartans.net/apps/events/2026/10/1/48357478/?id=3",
+      "url": "https://www.lcusd.net/apps/events/2026/10/1/48357480/?id=0",
       "home": true
     },
     {
@@ -72,7 +72,7 @@
       "end": "20:00",
       "time_label": "6:00\u20138:00 PM",
       "place": "LCHS Auditorium",
-      "url": "https://www.lchsspartans.net/apps/events/2026/10/6/55442259/?id=3",
+      "url": "https://www.lcusd.net/apps/events/2026/10/6/55442261/?id=0",
       "home": false
     },
     {
@@ -120,7 +120,7 @@
       "end": "11:30",
       "time_label": "10:30\u201311:30 AM",
       "place": "LCUSD campuses",
-      "url": "https://www.lchsspartans.net/apps/events/2026/10/15/56458320/?id=3",
+      "url": "https://www.lcusd.net/apps/events/2026/10/15/56458318/?id=0",
       "home": false
     },
     {
@@ -132,7 +132,7 @@
       "end": "20:00",
       "time_label": "5:30\u20138:00 PM",
       "place": "LCF Education Foundation listing",
-      "url": "https://www.lchsspartans.net/apps/events/2026/10/16/49235012/?id=3",
+      "url": "https://www.lcusd.net/apps/events/2026/10/16/49235014/?id=0",
       "home": false
     },
     {
@@ -156,7 +156,7 @@
       "end": null,
       "time_label": "Oct 20\u201323",
       "place": "LCUSD elementary schools",
-      "url": "https://www.lchsspartans.net/apps/events/2026/10/20/38581708/?id=3",
+      "url": "https://www.lcusd.net/apps/events/2026/10/20/38581711/?id=0",
       "home": false
     },
     {
@@ -206,6 +206,30 @@
       "place": "LCHS Football Field, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/football/game/crescenta-valley-la-crescenta-vs-la-canada/10-30-2026/",
       "home": false
+    },
+    {
+      "id": "district-2026-11-04-jog",
+      "source": "district",
+      "title": "LCFEF Jog a Thon",
+      "date": "2026-11-04",
+      "start": null,
+      "end": null,
+      "time_label": null,
+      "place": "LCUSD / LCFEF listing",
+      "url": "https://www.lcusd.net/apps/events/2026/11/4/49235020/?id=0",
+      "home": false
+    },
+    {
+      "id": "district-2026-11-11-veterans",
+      "source": "district",
+      "title": "Veterans Day Holiday",
+      "date": "2026-11-11",
+      "start": null,
+      "end": null,
+      "time_label": "All Day",
+      "place": "LCUSD",
+      "url": "https://www.lcusd.net/apps/events/2026/11/11/53670459/?id=0",
+      "home": false
     }
   ],
   "featured_event": {
@@ -219,5 +243,5 @@
     "blurb": "Family celebration with music, an inflatable obstacle course, and a scavenger hunt for a limited-edition LCF50 picnic blanket. Theme: Together for 50 Years.",
     "url": "https://lcf.ca.gov/togetherfor50/"
   },
-  "notes": "Removed Boombox Heroes Sep 30 \u2014 that listing was Aug 30 leaking onto the September calendar grid. Music in the Park 2026 ended 2026-08-30."
+  "notes": "District source switched to https://www.lcusd.net/apps/events/?id=0. Live JS calendar still Cloudflare-blocked; Oct/Nov list views and homepage widget scraped. GATE dropped. Added LCFEF Jog a Thon Nov 4 and Veterans Day Nov 11."
 }
