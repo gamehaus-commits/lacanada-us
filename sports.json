@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-10-11T12:55:00-07:00",
+  "season": "2026-27",
+  "sport": "Football",
+  "source": "MaxPreps",
+  "results": [
+    {
+      "school": "Flintridge Prep",
+      "sport": "Football",
+      "record": "2-3",
+      "wins": 2,
+      "losses": 3,
+      "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/football/"
+    },
+    {
+      "school": "La Ca\u00f1ada High",
+      "sport": "Football",
+      "record": "6-1",
+      "wins": 6,
+      "losses": 1,
+      "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/football/"
+    },
+    {
+      "school": "St. Francis",
+      "sport": "Football",
+      "record": "3-4",
+      "wins": 3,
+      "losses": 4,
+      "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/football/"
+    }
+  ]
+}
