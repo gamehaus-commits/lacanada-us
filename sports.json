@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-10-11T12:55:00-07:00",
-  "season": "2026-27",
-  "sport": "Football",
+  "generated_at": "2026-10-11T13:00:00-07:00",
+  "school_year": "2026-2027",
+  "header": "School Year 2026-2027 Sports Results",
   "source": "MaxPreps",
   "results": [
+    {
+      "school": "Flintridge Prep",
+      "sport": "Basketball",
+      "record": "0-0",
+      "wins": 0,
+      "losses": 0,
+      "note": "Season not started",
+      "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/basketball/"
+    },
     {
       "school": "Flintridge Prep",
       "sport": "Football",
@@ -11,6 +20,24 @@
       "wins": 2,
       "losses": 3,
       "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/football/"
+    },
+    {
+      "school": "Flintridge Prep",
+      "sport": "Soccer",
+      "record": "0-0",
+      "wins": 0,
+      "losses": 0,
+      "note": "Season not started",
+      "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/soccer/"
+    },
+    {
+      "school": "La Ca\u00f1ada High",
+      "sport": "Basketball",
+      "record": "0-0",
+      "wins": 0,
+      "losses": 0,
+      "note": "Season not started",
+      "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/basketball/"
     },
     {
       "school": "La Ca\u00f1ada High",
@@ -21,12 +48,39 @@
       "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/football/"
     },
     {
+      "school": "La Ca\u00f1ada High",
+      "sport": "Soccer",
+      "record": "0-0",
+      "wins": 0,
+      "losses": 0,
+      "note": "Season not started",
+      "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/soccer/"
+    },
+    {
+      "school": "St. Francis",
+      "sport": "Basketball",
+      "record": "0-0",
+      "wins": 0,
+      "losses": 0,
+      "note": "Season not started",
+      "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/basketball/"
+    },
+    {
       "school": "St. Francis",
       "sport": "Football",
       "record": "3-4",
       "wins": 3,
       "losses": 4,
       "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/football/"
+    },
+    {
+      "school": "St. Francis",
+      "sport": "Soccer",
+      "record": "0-0",
+      "wins": 0,
+      "losses": 0,
+      "note": "Season not started",
+      "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/soccer/"
     }
   ]
 }
