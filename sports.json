@@ -1,86 +1,53 @@
 {
-  "generated_at": "2026-10-11T13:00:00-07:00",
+  "generated_at": "2026-10-12T11:45:00-07:00",
   "school_year": "2026-2027",
   "header": "School Year 2026-2027 Sports Results",
   "source": "MaxPreps",
-  "results": [
+  "schools": [
     {
-      "school": "Flintridge Prep",
-      "sport": "Basketball",
-      "record": "0-0",
-      "wins": 0,
-      "losses": 0,
-      "note": "Season not started",
-      "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/basketball/"
+      "name": "Flintridge Prep",
+      "men": [
+        {
+          "sport": "Football",
+          "record": "2-3",
+          "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/football/"
+        }
+      ],
+      "women": [
+        {
+          "sport": "Volleyball",
+          "record": "19-2",
+          "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/volleyball/"
+        }
+      ]
     },
     {
-      "school": "Flintridge Prep",
-      "sport": "Football",
-      "record": "2-3",
-      "wins": 2,
-      "losses": 3,
-      "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/football/"
+      "name": "La Ca\u00f1ada High",
+      "men": [
+        {
+          "sport": "Football",
+          "record": "6-1",
+          "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/football/"
+        }
+      ],
+      "women": [
+        {
+          "sport": "Volleyball",
+          "record": "16-10",
+          "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/volleyball/"
+        }
+      ]
     },
     {
-      "school": "Flintridge Prep",
-      "sport": "Soccer",
-      "record": "0-0",
-      "wins": 0,
-      "losses": 0,
-      "note": "Season not started",
-      "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/soccer/"
-    },
-    {
-      "school": "La Ca\u00f1ada High",
-      "sport": "Basketball",
-      "record": "0-0",
-      "wins": 0,
-      "losses": 0,
-      "note": "Season not started",
-      "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/basketball/"
-    },
-    {
-      "school": "La Ca\u00f1ada High",
-      "sport": "Football",
-      "record": "6-1",
-      "wins": 6,
-      "losses": 1,
-      "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/football/"
-    },
-    {
-      "school": "La Ca\u00f1ada High",
-      "sport": "Soccer",
-      "record": "0-0",
-      "wins": 0,
-      "losses": 0,
-      "note": "Season not started",
-      "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/soccer/"
-    },
-    {
-      "school": "St. Francis",
-      "sport": "Basketball",
-      "record": "0-0",
-      "wins": 0,
-      "losses": 0,
-      "note": "Season not started",
-      "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/basketball/"
-    },
-    {
-      "school": "St. Francis",
-      "sport": "Football",
-      "record": "3-4",
-      "wins": 3,
-      "losses": 4,
-      "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/football/"
-    },
-    {
-      "school": "St. Francis",
-      "sport": "Soccer",
-      "record": "0-0",
-      "wins": 0,
-      "losses": 0,
-      "note": "Season not started",
-      "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/soccer/"
+      "name": "St. Francis",
+      "men": [
+        {
+          "sport": "Football",
+          "record": "3-4",
+          "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/football/"
+        }
+      ],
+      "women": []
     }
   ]
 }
