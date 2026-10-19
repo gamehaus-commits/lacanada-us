@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-10-18T18:10:00-07:00",
+  "title": "City of La Ca\u00f1ada Resources",
+  "blurb": "Practical links from the city site that are actually useful.",
+  "sections": [
+    {
+      "heading": "Moving here or new in town",
+      "items": [
+        {
+          "label": "New Residents welcome page",
+          "url": "https://lcf.ca.gov/wp-json/wp/v2/pages/137",
+          "note": "City intro to parks, trails, library, Lanterman House, Descanso"
+        },
+        {
+          "label": "Parks, fields, and facilities",
+          "url": "https://lcf.ca.gov/parks-and-recreation/",
+          "note": "What the city runs and how recreation works"
+        },
+        {
+          "label": "Reserve a park or field (ActiveLCF)",
+          "url": "https://lcf.ca.gov/activelcf/",
+          "note": "Book Memorial Park and other facilities"
+        }
+      ]
+    },
+    {
+      "heading": "Already live here",
+      "items": [
+        {
+          "label": "Sign up for Alert LCF",
+          "url": "https://lcf.ca.gov/alertswarnings/",
+          "note": "Emergency texts, calls, and emails for your address"
+        },
+        {
+          "label": "Report a problem (pothole, missed trash, etc.)",
+          "url": "https://lcf.ca.gov/citizen-problem-reporter-app/",
+          "note": "Citizen Problem Reporter app"
+        },
+        {
+          "label": "LCF Bulletin & Vista newsletters",
+          "url": "https://lcf.ca.gov/lcf-newsletter/",
+          "note": "Email bulletin and quarterly city magazine"
+        },
+        {
+          "label": "LCF In The Know",
+          "url": "https://lcf.ca.gov/lcfintheknow/",
+          "note": "Press releases, crime/fire stats, social updates"
+        },
+        {
+          "label": "Public safety resources",
+          "url": "https://lcf.ca.gov/public-safety/",
+          "note": "Sheriff, fire, CERT, Neighborhood Watch"
+        },
+        {
+          "label": "Emergency preparedness",
+          "url": "https://lcf.ca.gov/emergency-prep/",
+          "note": "Wildfire, earthquake, and household readiness"
+        },
+        {
+          "label": "Dial-A-Ride and local transit",
+          "url": "https://lcf.ca.gov/live-well/transportation/",
+          "note": "Free rides for 60+ and residents with disabilities"
+        }
+      ]
+    }
+  ]
+}
