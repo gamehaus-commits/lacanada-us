@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T23:33:26-07:00",
+  "generated_at": "2026-10-20T23:42:37-07:00",
   "window_home": {
     "from": "2026-10-18",
     "to": "2026-10-25",
@@ -331,6 +331,18 @@
       "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/girls/game/la-canada-vs-orange-lutheran/12-2-2026/",
       "home": false
+    },
+    {
+      "id": "sfhs-2027-01-09-open-house",
+      "source": "sfhs",
+      "title": "St. Francis High School Open House",
+      "date": "2027-01-09",
+      "start": "10:00",
+      "end": "13:00",
+      "time_label": "10:00 AM\u20131:00 PM",
+      "place": "St. Francis High School",
+      "url": "https://www.sfhs.net/calendar",
+      "home": true
     }
   ]
 }
