@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-10-18T17:55:00-07:00",
+  "generated_at": "2026-10-23T23:14:19-07:00",
   "copyright": "\u00a9 2026 lacanada.us",
-  "highlighted_slug": "district-district-district",
+  "highlighted_slug": "holiday-events-around-lcf",
   "default_byline": "lacanada.us editorial staff",
   "articles": [
+    {
+      "slug": "holiday-events-around-lcf",
+      "title": "Holiday Events Around LCF You Don't Want to Miss",
+      "published_at": "2026-10-23T08:00:00-07:00",
+      "highlighted": true,
+      "author": "lacanada.us editorial staff",
+      "image_alt": "Festive holiday scene with Christmas tree, lights, and people in a foothills community",
+      "url": "/articles/holiday-events-around-lcf",
+      "json": "https://raw.githubusercontent.com/gamehaus-commits/lacanada-us/main/articles/holiday-events-around-lcf.json"
+    },
     {
       "slug": "district-district-district",
       "title": "Thinking About Moving to La Ca\u00f1ada? It\u2019s District, District, District",
       "published_at": "2026-09-27T08:00:00-07:00",
-      "highlighted": true,
+      "highlighted": false,
       "author": "lacanada.us editorial staff",
       "image_alt": "La Ca\u00f1ada Unified School District campus life",
       "url": "/articles/district-district-district",
