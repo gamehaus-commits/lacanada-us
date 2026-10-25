@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-20T23:42:37-07:00",
+  "generated_at": "2026-10-25T08:11:00-07:00",
   "window_home": {
-    "from": "2026-10-18",
-    "to": "2026-10-25",
+    "from": "2026-10-25",
+    "to": "2026-11-01",
     "days": 7
   },
   "window_calendar": {
-    "from": "2026-10-18",
-    "to": "2026-12-02",
+    "from": "2026-10-25",
+    "to": "2026-12-09",
     "days": 45
   },
   "filters": {
@@ -57,66 +57,6 @@
   },
   "events": [
     {
-      "id": "district-2026-10-20-conf",
-      "source": "district",
-      "title": "Elementary Parent Conference Week",
-      "date": "2026-10-20",
-      "start": null,
-      "end": null,
-      "time_label": "Oct 20\u201323",
-      "place": "LCUSD elementary schools",
-      "url": "https://www.lcusd.net/apps/events/2026/10/20/38581711/?id=0",
-      "home": true
-    },
-    {
-      "id": "city-2026-10-22-50th",
-      "source": "city",
-      "title": "City of La Ca\u00f1ada Flintridge\u2019s 50th Anniversary Celebration",
-      "date": "2026-10-22",
-      "start": "17:00",
-      "end": "19:00",
-      "time_label": "5:00\u20137:00 PM",
-      "place": "Olberz Park",
-      "url": "https://lcf.ca.gov/togetherfor50/",
-      "home": true
-    },
-    {
-      "id": "prep-2026-10-23-fb",
-      "source": "prep",
-      "title": "Flintridge Prep Varsity Football vs Polytechnic",
-      "date": "2026-10-23",
-      "start": "18:30",
-      "end": "21:00",
-      "time_label": "6:30 PM",
-      "place": "Flintridge Prep, 4543 Crown Ave",
-      "url": "https://www.maxpreps.com/ca/football/game/flintridge-prep-la-canada-vs-polytechnic-pasadena/10-23-2026/",
-      "home": true
-    },
-    {
-      "id": "lchs-2026-10-23-fb",
-      "source": "lchs",
-      "title": "LCHS Varsity Football at Monrovia",
-      "date": "2026-10-23",
-      "start": "19:00",
-      "end": "21:30",
-      "time_label": "7:00 PM",
-      "place": "Monrovia High School",
-      "url": "https://www.maxpreps.com/ca/football/game/la-canada-vs-monrovia/10-23-2026/",
-      "home": true
-    },
-    {
-      "id": "sfhs-2026-10-23-fb",
-      "source": "sfhs",
-      "title": "St. Francis Varsity Football at Bishop Montgomery",
-      "date": "2026-10-23",
-      "start": "19:00",
-      "end": "21:30",
-      "time_label": "7:00 PM",
-      "place": "Bishop Montgomery High School, Torrance",
-      "url": "https://www.maxpreps.com/ca/football/game/bishop-montgomery-torrance-vs-st-francis-la-canada/10-23-2026/",
-      "home": true
-    },
-    {
       "id": "city-2026-10-27-vote-center",
       "source": "city",
       "title": "LA County Mobile Flex Vote Center at City Hall",
@@ -126,7 +66,7 @@
       "time_label": "9:00 AM\u20133:00 PM",
       "place": "City Hall, One Civic Center Dr",
       "url": "https://lcf.ca.gov/",
-      "home": false
+      "home": true
     },
     {
       "id": "city-2026-10-29-hillard",
@@ -138,7 +78,7 @@
       "time_label": "6:00\u20137:00 PM",
       "place": "City of La Ca\u00f1ada Flintridge",
       "url": "https://lcf.ca.gov/calendar/",
-      "home": false
+      "home": true
     },
     {
       "id": "prep-2026-10-30-fb",
@@ -150,7 +90,7 @@
       "time_label": "6:30 PM",
       "place": "Flintridge Prep, 4543 Crown Ave",
       "url": "https://www.maxpreps.com/ca/football/game/flintridge-prep-la-canada-vs-sage-hill-newport-beach/10-30-2026/",
-      "home": false
+      "home": true
     },
     {
       "id": "lchs-2026-10-30-fb",
@@ -162,7 +102,7 @@
       "time_label": "7:00 PM",
       "place": "LCHS Football Field, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/football/game/crescenta-valley-la-crescenta-vs-la-canada/10-30-2026/",
-      "home": false
+      "home": true
     },
     {
       "id": "sfhs-2026-10-30-fb",
@@ -174,7 +114,7 @@
       "time_label": "7:00 PM",
       "place": "Jim Bonds Stadium, 200 Foothill Blvd",
       "url": "https://www.maxpreps.com/ca/football/game/paraclete-lancaster-vs-st-francis-la-canada/10-30-2026/",
-      "home": false
+      "home": true
     },
     {
       "id": "district-2026-11-04-jog",
@@ -222,7 +162,7 @@
       "time_label": "6:00 PM",
       "place": "St. Bede the Venerable Catholic Church",
       "url": "https://bede.org/75th-anniversary-gala",
-      "home": true
+      "home": false
     },
     {
       "id": "district-2026-11-16-math",
@@ -331,18 +271,6 @@
       "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/girls/game/la-canada-vs-orange-lutheran/12-2-2026/",
       "home": false
-    },
-    {
-      "id": "sfhs-2027-01-09-open-house",
-      "source": "sfhs",
-      "title": "St. Francis High School Open House",
-      "date": "2027-01-09",
-      "start": "10:00",
-      "end": "13:00",
-      "time_label": "10:00 AM\u20131:00 PM",
-      "place": "St. Francis High School",
-      "url": "https://www.sfhs.net/calendar",
-      "home": true
     }
   ]
 }
