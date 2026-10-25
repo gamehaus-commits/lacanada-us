@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:15:00-07:00",
+  "generated_at": "2026-10-25T08:15:00-07:00",
   "school_year": "2026-2027",
   "header": "School Year 2026-2027 Sports Results",
   "source": "MaxPreps",
@@ -9,14 +9,14 @@
       "men": [
         {
           "sport": "Football",
-          "record": "2-4",
+          "record": "2-5",
           "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/football/"
         }
       ],
       "women": [
         {
           "sport": "Volleyball",
-          "record": "20-3",
+          "record": "21-4",
           "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/volleyball/"
         }
       ]
@@ -26,14 +26,14 @@
       "men": [
         {
           "sport": "Football",
-          "record": "7-1",
+          "record": "8-1",
           "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/football/"
         }
       ],
       "women": [
         {
           "sport": "Volleyball",
-          "record": "18-10",
+          "record": "19-11",
           "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/volleyball/"
         }
       ]
@@ -43,7 +43,7 @@
       "men": [
         {
           "sport": "Football",
-          "record": "4-4",
+          "record": "5-4",
           "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/football/"
         }
       ],
