@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:30:00-07:00",
+  "generated_at": "2026-11-01T12:35:00-07:00",
   "window_home": {
     "from": "2026-11-01",
     "to": "2026-11-08",
@@ -15,7 +15,8 @@
     "sfhs": "Varsity football (all games, home or away) and varsity basketball. Timed events only. Prefer iCal feed.",
     "lcusd_district": "District iCal https://www.lcusd.net/apps/events/ical/?id=0. Drop GATE.",
     "lchs_athletics": "Varsity football (all games), basketball, and baseball. Timed games with opponent.",
-    "flintridge_prep": "Varsity football (all games, home or away)."
+    "flintridge_prep": "Varsity football (all games, home or away).",
+    "rosebowl": "Public events from rosebowlstadium.com/events/calendar/list. Major concerts, games, flea markets, tours, runs."
   },
   "sources": [
     {
@@ -42,6 +43,11 @@
       "id": "prep",
       "name": "Flintridge Preparatory School",
       "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/football/schedule/"
+    },
+    {
+      "id": "rosebowl",
+      "name": "Rose Bowl Stadium",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list"
     }
   ],
   "featured_event": {
@@ -56,6 +62,18 @@
     "url": "https://bede.org/75th-anniversary-gala"
   },
   "events": [
+    {
+      "id": "rosebowl-2026-11-03-symposium",
+      "source": "rosebowl",
+      "title": "Women's Empowerment Symposium",
+      "date": "2026-11-03",
+      "start": "14:30",
+      "end": null,
+      "time_label": "2:30 PM",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
+      "home": false
+    },
     {
       "id": "district-2026-11-04-jog",
       "source": "district",
@@ -105,6 +123,30 @@
       "home": true
     },
     {
+      "id": "rosebowl-2026-11-07-moby",
+      "source": "rosebowl",
+      "title": "Moby + Underworld",
+      "date": "2026-11-07",
+      "start": "16:00",
+      "end": null,
+      "time_label": "4:00 PM",
+      "place": "Rose Bowl Stadium / Brookside, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
+      "home": true
+    },
+    {
+      "id": "rosebowl-2026-11-08-flea",
+      "source": "rosebowl",
+      "title": "Rose Bowl Flea Market",
+      "date": "2026-11-08",
+      "start": "05:00",
+      "end": "15:00",
+      "time_label": "5:00 AM (VIP) / 9:00 AM regular",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
+      "home": true
+    },
+    {
       "id": "city-2026-11-09-organics-workshops",
       "source": "city",
       "title": "Organics Recycling Workshops (Business 10 AM, Residential 6 PM)",
@@ -138,6 +180,30 @@
       "time_label": "All Day",
       "place": "LCUSD",
       "url": "https://www.lcusd.net/apps/events/2026/11/11/53670459/?id=0",
+      "home": false
+    },
+    {
+      "id": "rosebowl-2026-11-12-tours",
+      "source": "rosebowl",
+      "title": "Rose Bowl Public Tours",
+      "date": "2026-11-12",
+      "start": "10:30",
+      "end": null,
+      "time_label": "10:30 AM and 12:30 PM",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
+      "home": false
+    },
+    {
+      "id": "rosebowl-2026-11-13-illinois",
+      "source": "rosebowl",
+      "title": "Illinois vs UCLA Football",
+      "date": "2026-11-13",
+      "start": "18:00",
+      "end": null,
+      "time_label": "6:00 PM",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
       "home": false
     },
     {
@@ -225,6 +291,18 @@
       "home": false
     },
     {
+      "id": "rosebowl-2026-11-21-adoption",
+      "source": "rosebowl",
+      "title": "Best Friends Super Adoption",
+      "date": "2026-11-21",
+      "start": "11:00",
+      "end": null,
+      "time_label": "11:00 AM",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
+      "home": false
+    },
+    {
       "id": "sfhs-2026-11-21-bb",
       "source": "sfhs",
       "title": "St. Francis Varsity Basketball vs Palisades",
@@ -234,6 +312,18 @@
       "time_label": "7:00 PM",
       "place": "St. Francis High School",
       "url": "https://www.maxpreps.com/ca/basketball/game/palisades-pacific-palisades-vs-st-francis-la-canada/11-21-2026/",
+      "home": false
+    },
+    {
+      "id": "rosebowl-2026-11-22-adoption",
+      "source": "rosebowl",
+      "title": "Best Friends Super Adoption",
+      "date": "2026-11-22",
+      "start": "11:00",
+      "end": null,
+      "time_label": "11:00 AM",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
       "home": false
     },
     {
@@ -258,6 +348,54 @@
       "time_label": "Nov 26\u201327",
       "place": "City of La Ca\u00f1ada Flintridge",
       "url": "https://lcf.ca.gov/calendar/",
+      "home": false
+    },
+    {
+      "id": "rosebowl-2026-11-26-trot",
+      "source": "rosebowl",
+      "title": "Rose Bowl Turkey Trot",
+      "date": "2026-11-26",
+      "start": "08:30",
+      "end": null,
+      "time_label": "8:30 AM",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
+      "home": false
+    },
+    {
+      "id": "rosebowl-2026-11-26-tours",
+      "source": "rosebowl",
+      "title": "Rose Bowl Public Tours",
+      "date": "2026-11-26",
+      "start": "10:30",
+      "end": null,
+      "time_label": "10:30 AM and 12:30 PM",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
+      "home": false
+    },
+    {
+      "id": "rosebowl-2026-11-27-tours",
+      "source": "rosebowl",
+      "title": "Rose Bowl Public Tours",
+      "date": "2026-11-27",
+      "start": "10:30",
+      "end": null,
+      "time_label": "10:30 AM and 12:30 PM",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
+      "home": false
+    },
+    {
+      "id": "rosebowl-2026-11-28-usc",
+      "source": "rosebowl",
+      "title": "USC vs UCLA Football",
+      "date": "2026-11-28",
+      "start": null,
+      "end": null,
+      "time_label": "TBD",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
       "home": false
     },
     {
@@ -294,6 +432,18 @@
       "time_label": "7:00 PM",
       "place": "St. Francis High School",
       "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/basketball/schedule/",
+      "home": false
+    },
+    {
+      "id": "rosebowl-2026-12-13-flea",
+      "source": "rosebowl",
+      "title": "Rose Bowl Flea Market",
+      "date": "2026-12-13",
+      "start": "05:00",
+      "end": "15:00",
+      "time_label": "5:00 AM (VIP) / 9:00 AM regular",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
       "home": false
     }
   ]
