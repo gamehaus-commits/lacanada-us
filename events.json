@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:35:00-07:00",
+  "generated_at": "2026-11-01T12:36:00-07:00",
   "window_home": {
     "from": "2026-11-01",
     "to": "2026-11-08",
@@ -16,7 +16,7 @@
     "lcusd_district": "District iCal https://www.lcusd.net/apps/events/ical/?id=0. Drop GATE.",
     "lchs_athletics": "Varsity football (all games), basketball, and baseball. Timed games with opponent.",
     "flintridge_prep": "Varsity football (all games, home or away).",
-    "rosebowl": "Public events from rosebowlstadium.com/events/calendar/list. Major concerts, games, flea markets, tours, runs."
+    "rosebowl": "Public events from rosebowlstadium.com/events/calendar/list. Major concerts, games, flea markets, runs. Drop Public Tours."
   },
   "sources": [
     {
@@ -183,18 +183,6 @@
       "home": false
     },
     {
-      "id": "rosebowl-2026-11-12-tours",
-      "source": "rosebowl",
-      "title": "Rose Bowl Public Tours",
-      "date": "2026-11-12",
-      "start": "10:30",
-      "end": null,
-      "time_label": "10:30 AM and 12:30 PM",
-      "place": "Rose Bowl Stadium, Pasadena",
-      "url": "https://www.rosebowlstadium.com/events/calendar/list",
-      "home": false
-    },
-    {
       "id": "rosebowl-2026-11-13-illinois",
       "source": "rosebowl",
       "title": "Illinois vs UCLA Football",
@@ -358,30 +346,6 @@
       "start": "08:30",
       "end": null,
       "time_label": "8:30 AM",
-      "place": "Rose Bowl Stadium, Pasadena",
-      "url": "https://www.rosebowlstadium.com/events/calendar/list",
-      "home": false
-    },
-    {
-      "id": "rosebowl-2026-11-26-tours",
-      "source": "rosebowl",
-      "title": "Rose Bowl Public Tours",
-      "date": "2026-11-26",
-      "start": "10:30",
-      "end": null,
-      "time_label": "10:30 AM and 12:30 PM",
-      "place": "Rose Bowl Stadium, Pasadena",
-      "url": "https://www.rosebowlstadium.com/events/calendar/list",
-      "home": false
-    },
-    {
-      "id": "rosebowl-2026-11-27-tours",
-      "source": "rosebowl",
-      "title": "Rose Bowl Public Tours",
-      "date": "2026-11-27",
-      "start": "10:30",
-      "end": null,
-      "time_label": "10:30 AM and 12:30 PM",
       "place": "Rose Bowl Stadium, Pasadena",
       "url": "https://www.rosebowlstadium.com/events/calendar/list",
       "home": false
