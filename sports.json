@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-27T16:15:00-07:00",
+  "generated_at": "2026-11-01T08:11:00-08:00",
   "school_year": "2026-2027",
   "header": "School Year 2026-2027 Sports Results",
-  "source": "MaxPreps (Gemini test harvest)",
+  "source": "MaxPreps",
   "schools": [
     {
       "name": "Flintridge Prep",
       "men": [
         {
           "sport": "Football",
-          "record": "2-5",
+          "record": "2-6",
           "url": "https://www.maxpreps.com/ca/la-canada/flintridge-prep-wolves/football/"
         }
       ],
@@ -26,7 +26,7 @@
       "men": [
         {
           "sport": "Football",
-          "record": "8-1",
+          "record": "8-2",
           "url": "https://www.maxpreps.com/ca/la-canada/la-canada-spartans/football/"
         }
       ],
@@ -43,7 +43,7 @@
       "men": [
         {
           "sport": "Football",
-          "record": "5-4",
+          "record": "5-5",
           "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/football/"
         }
       ],
