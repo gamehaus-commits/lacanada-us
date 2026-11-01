@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T08:15:00-07:00",
+  "generated_at": "2026-11-01T12:30:00-07:00",
   "window_home": {
     "from": "2026-11-01",
     "to": "2026-11-08",
@@ -12,8 +12,8 @@
   },
   "filters": {
     "city": "Drop blue commission and council meetings. Music in the Park 2026 ended 2026-08-30.",
-    "sfhs": "Varsity football (all games, home or away) and varsity basketball. Timed events only.",
-    "lcusd_district": "District calendar https://www.lcusd.net/apps/events/?id=0. Drop GATE.",
+    "sfhs": "Varsity football (all games, home or away) and varsity basketball. Timed events only. Prefer iCal feed.",
+    "lcusd_district": "District iCal https://www.lcusd.net/apps/events/ical/?id=0. Drop GATE.",
     "lchs_athletics": "Varsity football (all games), basketball, and baseball. Timed games with opponent.",
     "flintridge_prep": "Varsity football (all games, home or away)."
   },
@@ -31,7 +31,7 @@
     {
       "id": "district",
       "name": "LCUSD District Calendar",
-      "url": "https://www.lcusd.net/apps/events/?id=0"
+      "url": "https://www.lcusd.net/apps/events/ical/?id=0"
     },
     {
       "id": "lchs",
@@ -67,6 +67,30 @@
       "place": "LCUSD / LCFEF listing",
       "url": "https://www.lcusd.net/apps/events/2026/11/4/49235020/?id=0",
       "home": false
+    },
+    {
+      "id": "lchs-2026-11-06-fb-playoff",
+      "source": "lchs",
+      "title": "LCHS Varsity Football CIF-SS Division 7 First Round: vs Millikan",
+      "date": "2026-11-06",
+      "start": "19:00",
+      "end": "21:30",
+      "time_label": "7:00 PM",
+      "place": "La Ca\u00f1ada High School Football Field",
+      "url": "https://cifss.org/brackets/2026-11-person-football/",
+      "home": true
+    },
+    {
+      "id": "sfhs-2026-11-06-fb-playoff",
+      "source": "sfhs",
+      "title": "St. Francis Varsity Football CIF-SS Division 6 First Round: vs Valley View",
+      "date": "2026-11-06",
+      "start": "19:00",
+      "end": "21:30",
+      "time_label": "7:00 PM",
+      "place": "St. Francis High School, Jim Bonds Stadium",
+      "url": "https://cifss.org/brackets/2026-11-person-football/",
+      "home": true
     },
     {
       "id": "city-2026-11-07-compost",
