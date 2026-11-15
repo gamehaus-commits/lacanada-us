@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-08T08:13:00-08:00",
+  "generated_at": "2026-11-15T08:15:00-08:00",
   "window_home": {
-    "from": "2026-11-08",
-    "to": "2026-11-15",
+    "from": "2026-11-15",
+    "to": "2026-11-22",
     "days": 7
   },
   "window_calendar": {
-    "from": "2026-11-08",
-    "to": "2026-12-23",
+    "from": "2026-11-15",
+    "to": "2026-12-30",
     "days": 45
   },
   "filters": {
@@ -50,100 +50,18 @@
       "url": "https://www.rosebowlstadium.com/events/calendar/list"
     }
   ],
-  "featured_event": {
-    "title": "St. Bede 75th Anniversary Gala",
-    "theme": "75 Years of Faith, Service, and Community",
-    "date": "2026-11-14",
-    "expires_on": "2026-11-15",
-    "time_label": "6:00 PM",
-    "place": "St. Bede the Venerable Catholic Church",
-    "also": "Ticketed event limited to 300 guests. Vigil Mass moved to 4:30 PM this day.",
-    "blurb": "Join us for an unforgettable evening celebrating 75 years of faith, service, and community\u2014honoring our past and welcoming our future.",
-    "url": "https://bede.org/75th-anniversary-gala"
-  },
+  "featured_event": null,
   "events": [
     {
-      "id": "rosebowl-2026-11-08-flea",
-      "source": "rosebowl",
-      "title": "Rose Bowl Flea Market",
-      "date": "2026-11-08",
-      "start": "05:00",
-      "end": "15:00",
-      "time_label": "5:00 AM (VIP) / 9:00 AM regular",
-      "place": "Rose Bowl Stadium, Pasadena",
-      "url": "https://www.rosebowlstadium.com/events/calendar/list",
-      "home": true
-    },
-    {
-      "id": "city-2026-11-09-organics-workshops",
+      "id": "city-2026-11-16-cleanup",
       "source": "city",
-      "title": "Organics Recycling Workshops (Business 10 AM, Residential 6 PM)",
-      "date": "2026-11-09",
-      "start": "10:00",
-      "end": "19:00",
-      "time_label": "10:00 AM and 6:00 PM",
-      "place": "City Hall / Council Chambers, One Civic Center Dr",
-      "url": "https://lcf.ca.gov/calendar/",
-      "home": true
-    },
-    {
-      "id": "city-2026-11-11-veterans",
-      "source": "city",
-      "title": "City Hall Closed in Observance of Veterans Day Holiday",
-      "date": "2026-11-11",
+      "title": "Fall Clean Up Week (Bulky Item Pick Up)",
+      "date": "2026-11-16",
       "start": null,
       "end": null,
-      "time_label": "All Day",
+      "time_label": "Nov 16\u201320",
       "place": "City of La Ca\u00f1ada Flintridge",
       "url": "https://lcf.ca.gov/calendar/",
-      "home": true
-    },
-    {
-      "id": "district-2026-11-11-veterans",
-      "source": "district",
-      "title": "Veterans Day Holiday",
-      "date": "2026-11-11",
-      "start": null,
-      "end": null,
-      "time_label": "All Day",
-      "place": "LCUSD",
-      "url": "https://www.lcusd.net/apps/events/2026/11/11/53670459/?id=0",
-      "home": true
-    },
-    {
-      "id": "sfhs-2026-11-13-fb",
-      "source": "sfhs",
-      "title": "St. Francis Varsity Football vs Calabasas",
-      "date": "2026-11-13",
-      "start": "19:00",
-      "end": "22:00",
-      "time_label": "7:00 PM",
-      "place": "St. Francis High School, Jim Bonds Stadium",
-      "url": "https://www.sfhs.net/calendar",
-      "home": true
-    },
-    {
-      "id": "rosebowl-2026-11-13-illinois",
-      "source": "rosebowl",
-      "title": "Illinois vs UCLA Football",
-      "date": "2026-11-13",
-      "start": "18:00",
-      "end": null,
-      "time_label": "6:00 PM",
-      "place": "Rose Bowl Stadium, Pasadena",
-      "url": "https://www.rosebowlstadium.com/events/calendar/list",
-      "home": false
-    },
-    {
-      "id": "stbede-2026-11-14-gala",
-      "source": "community",
-      "title": "St. Bede 75th Anniversary Gala",
-      "date": "2026-11-14",
-      "start": "18:00",
-      "end": null,
-      "time_label": "6:00 PM",
-      "place": "St. Bede the Venerable Catholic Church",
-      "url": "https://bede.org/75th-anniversary-gala",
       "home": true
     },
     {
@@ -156,19 +74,7 @@
       "time_label": "8:00\u20139:00 AM",
       "place": "LCUSD Board Room",
       "url": "https://www.lcusd.net/apps/events/2026/11/16/59244133/?id=0",
-      "home": false
-    },
-    {
-      "id": "city-2026-11-16-cleanup",
-      "source": "city",
-      "title": "Fall Clean Up Week (Bulky Item Pick Up)",
-      "date": "2026-11-16",
-      "start": null,
-      "end": null,
-      "time_label": "Nov 16\u201320",
-      "place": "City of La Ca\u00f1ada Flintridge",
-      "url": "https://lcf.ca.gov/calendar/",
-      "home": false
+      "home": true
     },
     {
       "id": "sfhs-2026-11-16-bb",
@@ -204,7 +110,7 @@
       "time_label": "5:30 PM",
       "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/girls/game/la-canada-vs-marlborough-los-angeles/11-17-2026/",
-      "home": false
+      "home": true
     },
     {
       "id": "lchs-2026-11-19-gbb",
@@ -216,7 +122,7 @@
       "time_label": "6:00 PM",
       "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/girls/game/la-canada-vs-la-salle-pasadena/11-19-2026/",
-      "home": false
+      "home": true
     },
     {
       "id": "rosebowl-2026-11-21-adoption",
@@ -228,7 +134,7 @@
       "time_label": "11:00 AM",
       "place": "Rose Bowl Stadium, Pasadena",
       "url": "https://www.rosebowlstadium.com/events/calendar/list",
-      "home": false
+      "home": true
     },
     {
       "id": "sfhs-2026-11-21-bb",
@@ -240,7 +146,7 @@
       "time_label": "7:00 PM",
       "place": "St. Francis High School",
       "url": "https://www.maxpreps.com/ca/basketball/game/palisades-pacific-palisades-vs-st-francis-la-canada/11-21-2026/",
-      "home": false
+      "home": true
     },
     {
       "id": "rosebowl-2026-11-22-adoption",
@@ -252,7 +158,7 @@
       "time_label": "11:00 AM",
       "place": "Rose Bowl Stadium, Pasadena",
       "url": "https://www.rosebowlstadium.com/events/calendar/list",
-      "home": false
+      "home": true
     },
     {
       "id": "city-2026-11-26-turkey-run",
@@ -327,6 +233,18 @@
       "home": false
     },
     {
+      "id": "district-2026-12-08-delac",
+      "source": "district",
+      "title": "District English Language Advisory Committee (DELAC) Meeting",
+      "date": "2026-12-08",
+      "start": "18:00",
+      "end": "19:00",
+      "time_label": "6:00\u20137:00 PM",
+      "place": "LCUSD",
+      "url": "https://www.lcusd.net/apps/events/2026/12/8/61407533/?id=0",
+      "home": false
+    },
+    {
       "id": "sfhs-2026-12-11-bb",
       "source": "sfhs",
       "title": "St. Francis Varsity Basketball vs La Salle",
@@ -348,6 +266,30 @@
       "time_label": "5:00 AM (VIP) / 9:00 AM regular",
       "place": "Rose Bowl Stadium, Pasadena",
       "url": "https://www.rosebowlstadium.com/events/calendar/list",
+      "home": false
+    },
+    {
+      "id": "lchs-2026-12-21-bbb",
+      "source": "lchs",
+      "title": "LCHS Varsity Boys Basketball vs Lakeside",
+      "date": "2026-12-21",
+      "start": "16:00",
+      "end": "17:30",
+      "time_label": "4:00 PM",
+      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
+      "url": "https://www.maxpreps.com/ca/basketball/game/la-canada-vs-lakeside-lake-elsinore/12-21-2026/",
+      "home": false
+    },
+    {
+      "id": "lchs-2026-12-22-bbb",
+      "source": "lchs",
+      "title": "LCHS Varsity Boys Basketball vs Flintridge Prep",
+      "date": "2026-12-22",
+      "start": "19:00",
+      "end": "20:30",
+      "time_label": "7:00 PM",
+      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
+      "url": "https://www.maxpreps.com/ca/basketball/game/flintridge-prep-la-canada-vs-la-canada/12-22-2026/",
       "home": false
     }
   ]
