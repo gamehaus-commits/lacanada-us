@@ -7,8 +7,8 @@
   },
   "window_calendar": {
     "from": "2026-11-15",
-    "to": "2026-12-30",
-    "days": 45
+    "to": "2027-02-15",
+    "days": 90
   },
   "filters": {
     "city": "Drop blue commission and council meetings. Music in the Park 2026 ended 2026-08-30.",
@@ -21,7 +21,7 @@
   "sources": [
     {
       "id": "city",
-      "name": "City of La Ca\u00f1ada Flintridge",
+      "name": "City of La Cañada Flintridge",
       "url": "https://lcf.ca.gov/calendar/"
     },
     {
@@ -55,7 +55,7 @@
     "theme": "Admissions Open House",
     "date": "2027-01-09",
     "expires_on": "2027-01-10",
-    "time_label": "10:00 AM\u20131:00 PM",
+    "time_label": "10:00 AM–1:00 PM",
     "place": "St. Francis High School",
     "also": "",
     "blurb": "Visit St. Francis High School for their Open House. Tour the campus and learn about admissions.",
@@ -69,8 +69,8 @@
       "date": "2026-11-16",
       "start": null,
       "end": null,
-      "time_label": "Nov 16\u201320",
-      "place": "City of La Ca\u00f1ada Flintridge",
+      "time_label": "Nov 16–20",
+      "place": "City of La Cañada Flintridge",
       "url": "https://lcf.ca.gov/calendar/",
       "home": true
     },
@@ -81,7 +81,7 @@
       "date": "2026-11-16",
       "start": "08:00",
       "end": "09:00",
-      "time_label": "8:00\u20139:00 AM",
+      "time_label": "8:00–9:00 AM",
       "place": "LCUSD Board Room",
       "url": "https://www.lcusd.net/apps/events/2026/11/16/59244133/?id=0",
       "home": true
@@ -118,7 +118,7 @@
       "start": "17:30",
       "end": "19:00",
       "time_label": "5:30 PM",
-      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
+      "place": "La Cañada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/girls/game/la-canada-vs-marlborough-los-angeles/11-17-2026/",
       "home": true
     },
@@ -130,7 +130,7 @@
       "start": "18:00",
       "end": "19:30",
       "time_label": "6:00 PM",
-      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
+      "place": "La Cañada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/girls/game/la-canada-vs-la-salle-pasadena/11-19-2026/",
       "home": true
     },
@@ -177,7 +177,7 @@
       "date": "2026-11-26",
       "start": "08:15",
       "end": "10:00",
-      "time_label": "5K 8:15 AM, Kids\u2019 Mile 9:30 AM",
+      "time_label": "5K 8:15 AM, Kids’ Mile 9:30 AM",
       "place": "Olberz Park, One Civic Center Drive",
       "url": "https://cclcf.org/run/",
       "home": false
@@ -189,8 +189,8 @@
       "date": "2026-11-26",
       "start": null,
       "end": null,
-      "time_label": "Nov 26\u201327",
-      "place": "City of La Ca\u00f1ada Flintridge",
+      "time_label": "Nov 26–27",
+      "place": "City of La Cañada Flintridge",
       "url": "https://lcf.ca.gov/calendar/",
       "home": false
     },
@@ -226,7 +226,7 @@
       "start": "15:30",
       "end": "17:00",
       "time_label": "3:30 PM",
-      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
+      "place": "La Cañada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/girls/game/la-canada-vs-orange-lutheran/12-2-2026/",
       "home": false
     },
@@ -237,7 +237,7 @@
       "date": "2026-12-04",
       "start": "16:00",
       "end": "18:30",
-      "time_label": "4:00\u20136:30 PM",
+      "time_label": "4:00–6:30 PM",
       "place": "Memorial Park",
       "url": "https://lcf.ca.gov/calendar/",
       "home": false
@@ -249,7 +249,7 @@
       "date": "2026-12-08",
       "start": "18:00",
       "end": "19:00",
-      "time_label": "6:00\u20137:00 PM",
+      "time_label": "6:00–7:00 PM",
       "place": "LCUSD",
       "url": "https://www.lcusd.net/apps/events/2026/12/8/61407533/?id=0",
       "home": false
@@ -286,7 +286,7 @@
       "start": "16:00",
       "end": "17:30",
       "time_label": "4:00 PM",
-      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
+      "place": "La Cañada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/game/la-canada-vs-lakeside-lake-elsinore/12-21-2026/",
       "home": false
     },
@@ -298,8 +298,56 @@
       "start": "19:00",
       "end": "20:30",
       "time_label": "7:00 PM",
-      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
+      "place": "La Cañada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/game/flintridge-prep-la-canada-vs-la-canada/12-22-2026/",
+      "home": false
+    },
+    {
+      "id": "sfhs-2027-01-09-open-house",
+      "source": "sfhs",
+      "title": "St. Francis High School Open House",
+      "date": "2027-01-09",
+      "start": "10:00",
+      "end": "13:00",
+      "time_label": "10:00 AM–1:00 PM",
+      "place": "St. Francis High School",
+      "url": "https://www.sfhs.net/admissions/becoming-a-golden-knight/open-house",
+      "home": false
+    },
+    {
+      "id": "sfhs-2027-01-23-entrance-exam",
+      "source": "sfhs",
+      "title": "St. Francis High School Entrance Exam",
+      "date": "2027-01-23",
+      "start": "08:30",
+      "end": "12:30",
+      "time_label": "8:30 AM–12:30 PM",
+      "place": "St. Francis High School",
+      "url": "https://www.sfhs.net/admissions/becoming-a-golden-knight",
+      "home": false
+    },
+    {
+      "id": "sfhs-2027-01-23-application-deadline",
+      "source": "sfhs",
+      "title": "St. Francis High School Application Deadline",
+      "date": "2027-01-23",
+      "start": null,
+      "end": null,
+      "time_label": "12:30 PM",
+      "place": "St. Francis High School",
+      "url": "https://www.sfhs.net/admissions/becoming-a-golden-knight",
+      "home": false
+    },
+    {
+      "id": "sfhs-2027-02-06-interviews",
+      "source": "sfhs",
+      "title": "St. Francis High School Interviews",
+      "date": "2027-02-06",
+      "start": "08:00",
+      "end": "16:00",
+      "time_label": "8:00 AM–4:00 PM",
+      "place": "St. Francis High School",
+      "url": "https://www.sfhs.net/admissions/becoming-a-golden-knight/interview",
       "home": false
     }
   ]
