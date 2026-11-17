@@ -51,15 +51,15 @@
     }
   ],
   "featured_event": {
-    "title": "St. Francis High School Open House",
-    "theme": "Admissions Open House",
-    "date": "2027-01-09",
-    "expires_on": "2027-01-10",
-    "time_label": "10:00 AM–1:00 PM",
-    "place": "St. Francis High School",
+    "title": "Festival in Lights",
+    "theme": "Holiday Lights",
+    "date": "2026-12-04",
+    "expires_on": "2026-12-05",
+    "time_label": "4:00–6:30 PM",
+    "place": "Memorial Park",
     "also": "",
-    "blurb": "Visit St. Francis High School for their Open House. Tour the campus and learn about admissions.",
-    "url": "https://www.sfhs.net/calendar"
+    "blurb": "City of La Cañada Flintridge Festival in Lights at Memorial Park.",
+    "url": "https://lcf.ca.gov/calendar/"
   },
   "events": [
     {
