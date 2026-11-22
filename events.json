@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-16T08:00:00-08:00",
+  "generated_at": "2026-11-22T08:00:00-08:00",
   "window_home": {
-    "from": "2026-11-15",
-    "to": "2026-11-22",
+    "from": "2026-11-22",
+    "to": "2026-11-29",
     "days": 7
   },
   "window_calendar": {
-    "from": "2026-11-15",
+    "from": "2026-11-22",
     "to": "2027-02-15",
-    "days": 90
+    "days": 85
   },
   "filters": {
     "city": "Drop blue commission and council meetings. Music in the Park 2026 ended 2026-08-30.",
@@ -21,7 +21,7 @@
   "sources": [
     {
       "id": "city",
-      "name": "City of La Cañada Flintridge",
+      "name": "City of La Ca\u00f1ada Flintridge",
       "url": "https://lcf.ca.gov/calendar/"
     },
     {
@@ -55,109 +55,13 @@
     "theme": "Holiday Lights",
     "date": "2026-12-04",
     "expires_on": "2026-12-05",
-    "time_label": "4:00–6:30 PM",
+    "time_label": "4:00\u20136:30 PM",
     "place": "Memorial Park",
     "also": "",
-    "blurb": "City of La Cañada Flintridge Festival in Lights at Memorial Park.",
+    "blurb": "City of La Ca\u00f1ada Flintridge Festival in Lights at Memorial Park.",
     "url": "https://lcf.ca.gov/calendar/"
   },
   "events": [
-    {
-      "id": "city-2026-11-16-cleanup",
-      "source": "city",
-      "title": "Fall Clean Up Week (Bulky Item Pick Up)",
-      "date": "2026-11-16",
-      "start": null,
-      "end": null,
-      "time_label": "Nov 16–20",
-      "place": "City of La Cañada Flintridge",
-      "url": "https://lcf.ca.gov/calendar/",
-      "home": true
-    },
-    {
-      "id": "district-2026-11-16-math",
-      "source": "district",
-      "title": "Elementary Parent Math Information Session",
-      "date": "2026-11-16",
-      "start": "08:00",
-      "end": "09:00",
-      "time_label": "8:00–9:00 AM",
-      "place": "LCUSD Board Room",
-      "url": "https://www.lcusd.net/apps/events/2026/11/16/59244133/?id=0",
-      "home": true
-    },
-    {
-      "id": "sfhs-2026-11-16-bb",
-      "source": "sfhs",
-      "title": "St. Francis Varsity Basketball at Santa Barbara",
-      "date": "2026-11-16",
-      "start": "19:00",
-      "end": "21:00",
-      "time_label": "7:00 PM",
-      "place": "Santa Barbara High School",
-      "url": "https://www.maxpreps.com/ca/basketball/game/santa-barbara-vs-st-francis-la-canada/11-16-2026/",
-      "home": false
-    },
-    {
-      "id": "lchs-2026-11-17-bbb",
-      "source": "lchs",
-      "title": "LCHS Varsity Boys Basketball at Pilibos",
-      "date": "2026-11-17",
-      "start": "19:00",
-      "end": "20:30",
-      "time_label": "7:00 PM",
-      "place": "Pilibos, Los Angeles",
-      "url": "https://www.maxpreps.com/ca/basketball/game/la-canada-vs-pilibos-los-angeles/11-17-2026/",
-      "home": false
-    },
-    {
-      "id": "lchs-2026-11-17-gbb",
-      "source": "lchs",
-      "title": "LCHS Varsity Girls Basketball vs Marlborough",
-      "date": "2026-11-17",
-      "start": "17:30",
-      "end": "19:00",
-      "time_label": "5:30 PM",
-      "place": "La Cañada High School, 4463 Oak Grove Dr",
-      "url": "https://www.maxpreps.com/ca/basketball/girls/game/la-canada-vs-marlborough-los-angeles/11-17-2026/",
-      "home": true
-    },
-    {
-      "id": "lchs-2026-11-19-gbb",
-      "source": "lchs",
-      "title": "LCHS Varsity Girls Basketball vs La Salle",
-      "date": "2026-11-19",
-      "start": "18:00",
-      "end": "19:30",
-      "time_label": "6:00 PM",
-      "place": "La Cañada High School, 4463 Oak Grove Dr",
-      "url": "https://www.maxpreps.com/ca/basketball/girls/game/la-canada-vs-la-salle-pasadena/11-19-2026/",
-      "home": true
-    },
-    {
-      "id": "rosebowl-2026-11-21-adoption",
-      "source": "rosebowl",
-      "title": "Best Friends Super Adoption",
-      "date": "2026-11-21",
-      "start": "11:00",
-      "end": null,
-      "time_label": "11:00 AM",
-      "place": "Rose Bowl Stadium, Pasadena",
-      "url": "https://www.rosebowlstadium.com/events/calendar/list",
-      "home": true
-    },
-    {
-      "id": "sfhs-2026-11-21-bb",
-      "source": "sfhs",
-      "title": "St. Francis Varsity Basketball vs Palisades",
-      "date": "2026-11-21",
-      "start": "19:00",
-      "end": "21:00",
-      "time_label": "7:00 PM",
-      "place": "St. Francis High School",
-      "url": "https://www.maxpreps.com/ca/basketball/game/palisades-pacific-palisades-vs-st-francis-la-canada/11-21-2026/",
-      "home": true
-    },
     {
       "id": "rosebowl-2026-11-22-adoption",
       "source": "rosebowl",
@@ -171,13 +75,49 @@
       "home": true
     },
     {
+      "id": "lchs-2026-11-23-gbb",
+      "source": "lchs",
+      "title": "LCHS Varsity Girls Basketball vs Bishop Amat",
+      "date": "2026-11-23",
+      "start": "17:30",
+      "end": "19:00",
+      "time_label": "5:30 PM",
+      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
+      "url": "https://www.maxpreps.com/ca/basketball/girls/game/bishop-amat-la-puente-vs-la-canada/11-23-2026/",
+      "home": true
+    },
+    {
+      "id": "lchs-2026-11-23-bbb",
+      "source": "lchs",
+      "title": "LCHS Varsity Boys Basketball vs Charter Oak",
+      "date": "2026-11-23",
+      "start": "17:00",
+      "end": "18:30",
+      "time_label": "5:00 PM",
+      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
+      "url": "https://www.maxpreps.com/ca/basketball/game/charter-oak-covina-vs-la-canada/11-23-2026/",
+      "home": true
+    },
+    {
+      "id": "lchs-2026-11-24-bbb",
+      "source": "lchs",
+      "title": "LCHS Varsity Boys Basketball vs Calvary Baptist",
+      "date": "2026-11-24",
+      "start": "20:00",
+      "end": "21:30",
+      "time_label": "8:00 PM",
+      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
+      "url": "https://www.maxpreps.com/ca/basketball/game/calvary-baptist-la-verne-vs-la-canada/11-24-2026/",
+      "home": true
+    },
+    {
       "id": "city-2026-11-26-turkey-run",
       "source": "city",
       "title": "33rd Annual Thanksgiving Day Run and Food Drive",
       "date": "2026-11-26",
       "start": "08:15",
       "end": "10:00",
-      "time_label": "5K 8:15 AM, Kids’ Mile 9:30 AM",
+      "time_label": "5K 8:15 AM, Kids\u2019 Mile 9:30 AM",
       "place": "Olberz Park, One Civic Center Drive",
       "url": "https://cclcf.org/run/",
       "home": false
@@ -189,8 +129,8 @@
       "date": "2026-11-26",
       "start": null,
       "end": null,
-      "time_label": "Nov 26–27",
-      "place": "City of La Cañada Flintridge",
+      "time_label": "Nov 26\u201327",
+      "place": "City of La Ca\u00f1ada Flintridge",
       "url": "https://lcf.ca.gov/calendar/",
       "home": false
     },
@@ -207,13 +147,25 @@
       "home": false
     },
     {
+      "id": "lchs-2026-11-27-bbb",
+      "source": "lchs",
+      "title": "LCHS Varsity Boys Basketball vs El Dorado",
+      "date": "2026-11-27",
+      "start": "18:30",
+      "end": "20:00",
+      "time_label": "6:30 PM",
+      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
+      "url": "https://www.maxpreps.com/ca/basketball/game/el-dorado-placentia-vs-la-canada/11-27-2026/",
+      "home": true
+    },
+    {
       "id": "rosebowl-2026-11-28-usc",
       "source": "rosebowl",
       "title": "USC vs UCLA Football",
       "date": "2026-11-28",
-      "start": null,
+      "start": "12:30",
       "end": null,
-      "time_label": "TBD",
+      "time_label": "12:30 PM",
       "place": "Rose Bowl Stadium, Pasadena",
       "url": "https://www.rosebowlstadium.com/events/calendar/list",
       "home": false
@@ -226,7 +178,7 @@
       "start": "15:30",
       "end": "17:00",
       "time_label": "3:30 PM",
-      "place": "La Cañada High School, 4463 Oak Grove Dr",
+      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/girls/game/la-canada-vs-orange-lutheran/12-2-2026/",
       "home": false
     },
@@ -237,7 +189,7 @@
       "date": "2026-12-04",
       "start": "16:00",
       "end": "18:30",
-      "time_label": "4:00–6:30 PM",
+      "time_label": "4:00\u20136:30 PM",
       "place": "Memorial Park",
       "url": "https://lcf.ca.gov/calendar/",
       "home": false
@@ -249,7 +201,7 @@
       "date": "2026-12-08",
       "start": "18:00",
       "end": "19:00",
-      "time_label": "6:00–7:00 PM",
+      "time_label": "6:00\u20137:00 PM",
       "place": "LCUSD",
       "url": "https://www.lcusd.net/apps/events/2026/12/8/61407533/?id=0",
       "home": false
@@ -263,7 +215,7 @@
       "end": "21:00",
       "time_label": "7:00 PM",
       "place": "St. Francis High School",
-      "url": "https://www.maxpreps.com/ca/la-canada/st-francis-golden-knights/basketball/schedule/",
+      "url": "https://www.maxpreps.com/ca/basketball/game/la-salle-pasadena-vs-st-francis-la-canada/12-11-2026/",
       "home": false
     },
     {
@@ -286,7 +238,7 @@
       "start": "16:00",
       "end": "17:30",
       "time_label": "4:00 PM",
-      "place": "La Cañada High School, 4463 Oak Grove Dr",
+      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/game/la-canada-vs-lakeside-lake-elsinore/12-21-2026/",
       "home": false
     },
@@ -298,8 +250,20 @@
       "start": "19:00",
       "end": "20:30",
       "time_label": "7:00 PM",
-      "place": "La Cañada High School, 4463 Oak Grove Dr",
+      "place": "La Ca\u00f1ada High School, 4463 Oak Grove Dr",
       "url": "https://www.maxpreps.com/ca/basketball/game/flintridge-prep-la-canada-vs-la-canada/12-22-2026/",
+      "home": false
+    },
+    {
+      "id": "rosebowl-2027-01-01-game",
+      "source": "rosebowl",
+      "title": "Rose Bowl Game",
+      "date": "2027-01-01",
+      "start": null,
+      "end": null,
+      "time_label": "TBD",
+      "place": "Rose Bowl Stadium, Pasadena",
+      "url": "https://www.rosebowlstadium.com/events/calendar/list",
       "home": false
     },
     {
@@ -309,7 +273,7 @@
       "date": "2027-01-09",
       "start": "10:00",
       "end": "13:00",
-      "time_label": "10:00 AM–1:00 PM",
+      "time_label": "10:00 AM\u20131:00 PM",
       "place": "St. Francis High School",
       "url": "https://www.sfhs.net/admissions/becoming-a-golden-knight/open-house",
       "home": false
@@ -321,7 +285,7 @@
       "date": "2027-01-23",
       "start": "08:30",
       "end": "12:30",
-      "time_label": "8:30 AM–12:30 PM",
+      "time_label": "8:30 AM\u201312:30 PM",
       "place": "St. Francis High School",
       "url": "https://www.sfhs.net/admissions/becoming-a-golden-knight",
       "home": false
@@ -345,7 +309,7 @@
       "date": "2027-02-06",
       "start": "08:00",
       "end": "16:00",
-      "time_label": "8:00 AM–4:00 PM",
+      "time_label": "8:00 AM\u20134:00 PM",
       "place": "St. Francis High School",
       "url": "https://www.sfhs.net/admissions/becoming-a-golden-knight/interview",
       "home": false
